@@ -1,6 +1,7 @@
 # store-sales
 kaggle competition: https://www.kaggle.com/competitions/store-sales-time-series-forecasting
 
+Report: report.pdf
 
 Following are the contents:
 1) baseline_regression.ipynb, and baseline_regression.pdf - These contain the code for Q5 of homework 4.
